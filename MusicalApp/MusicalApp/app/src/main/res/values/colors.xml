@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_color">#2196F3</color>
+
+
+    <color name="primary_dark_color">#16AFCA</color>
+
+
+    <color name="main_background">#E3F2FD</color>
+
+
+    <color name="category_artists">#00BF9A</color>
+
+
+    <color name="category_albums">#FDD835</color>
+
+
+    <color name="category_playlists">#F4511E</color>
+
+
+    <color name="category_podcasts">#757575</color>
+</resources>

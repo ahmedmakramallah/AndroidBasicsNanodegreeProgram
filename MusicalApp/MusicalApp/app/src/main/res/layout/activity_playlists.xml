@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ahmedmakramallah.musicalapp.Artists">
+
+
+    <TextView
+        style="@style/TextViewStyle"
+        android:text="@string/playlists_textView" />
+
+    <LinearLayout style="@style/LinearLayoutForButtons">
+
+
+        <Button
+            android:id="@+id/back"
+            style="@style/ButtonStyle"
+            android:text="@string/back" />
+
+        <Button
+            android:id="@+id/next"
+            style="@style/ButtonStyle"
+            android:text="@string/next" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

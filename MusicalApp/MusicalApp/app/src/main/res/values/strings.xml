@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MusicalApp</string>
+
+    <string name="category_artists">Artists</string>
+
+
+    <string name="category_albums">Albums</string>
+
+
+    <string name="category_playlists">Playlists</string>
+
+
+    <string name="category_podcasts">Podcasts</string>
+
+
+    <string name="atrits_textView">this is the activity for artists</string>
+
+    <string name="albums_textView">this is the activity for albums</string>
+
+    <string name="playlists_textView">this is the activity for playlists</string>
+
+    <string name="podcasts_textView">this is the activity for podcasts</string>
+
+    <string name="next">Next</string>
+
+    <string name="back">Back</string>
+</resources>

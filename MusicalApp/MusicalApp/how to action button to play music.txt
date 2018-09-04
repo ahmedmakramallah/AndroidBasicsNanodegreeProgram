@@ -1,0 +1,12 @@
+Button play = (Button) findViewById(R.id.play);
+        final MediaPlayer mediaPlayer = MediaPlayer.create(MainActivity.this, R.raw.cuckoo);
+        play.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mediaPlayer.start();
+            }
+        });
+
+
+// hint 
+  cuckoo >>>> the name of music that put in raw folder 
