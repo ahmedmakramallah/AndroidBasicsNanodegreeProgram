@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="product_name_txt">Product Name</string>
+    <string name="quantity_txt">Quantity  </string>
+    <string name="price_txt">Price  </string>
+    <string name="quantity_txt_column">Quantity : </string>
+    <string name="price_txt_column">Price : </string>
+    <string name="supplier_number_txt">Supplier number</string>
+    <string name="add">Add New Product</string>
+    <string name="no_item">please, press a button if you want to add a new product</string>
+    <string name="sell_button">Sale</string>
+    <string name="order_from_the_supplier">Order From Supplier</string>
+    <string name="delete">Delete</string>
+    <string name="done_btn">Done</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="cursor_id">1</string>
+    <string name="quantity_id">2</string>
+    <string name="failed">failed</string>
+</resources>
