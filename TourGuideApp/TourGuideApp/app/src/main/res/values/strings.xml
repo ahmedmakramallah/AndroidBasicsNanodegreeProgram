@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">TourGuide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Category name for Clubs -->
+    <string name="category_clubs">Clubs</string>
+
+    <!-- Category name for the Cinemas -->
+    <string name="category_cinemas">Cinemas</string>
+
+    <!-- Category name for the Hotels -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the Restaurants -->
+    <string name="category_restaurants">Restaurant</string>
+
+    <!-- the names and the addresses of the clubs -->
+    <string name="al_ahly_club">Al Ahly SC</string>
+    <string name="al_ahly_club_addr">Nasr city</string>
+    <string name="misr_lel_makkasa_club">Misr Lel Makkasa SC</string>
+    <string name="misr_lel_makkasa_club_addr">El fayoum</string>
+    <string name="zamalek_club">Zamalek SC</string>
+    <string name="zamalek_club_addr">Elmohndseen</string>
+    <string name="al_masry_club">Al Masry SC</string>
+    <string name="al_masry_club_addr">Portsaid</string>
+    <string name="smouha_club">Smouha SC</string>
+    <string name="smouha_club_addr">Alexandria</string>
+    <string name="ismaily_club">Ismaily SC</string>
+    <string name="ismaily_club_addr">Elismailia</string>
+    <string name="talaea_el_gaish_club">Talaea ElGaish SC</string>
+    <string name="talaea_el_gaish_club_addr">Al-Uruba Street, Heliopolis, cairo</string>
+    <string name="al_ittihad_alexandria_club">Al Ittihad Alexandria SC</string>
+    <string name="al_ittihad_alexandria_club_addr">Alexandria</string>
+    <string name="el_mokawloon_club">El Mokawloon SC</string>
+    <string name="el_mokawloon_club_addr">Nasr city, Cairo</string>
+    <string name="enppi_club">Enppi SC</string>
+    <string name="enppi_club_addr">Kilo Meter 17.5 Suez Road, Cairo</string>
+    <!-- the names and the addresses of the restaurants-->
+    <string name="maestro_restaurant">Maestro Italian Restaurant</string>
+    <string name="maestro_restaurant_addr">InterContinental Cairo Citystars</string>
+    <string name="zooba_restaurant">Zooba</string>
+    <string name="zooba_restaurant_addr">26th of July St</string>
+    <string name="kazaz_restaurant">Kazaz Restaurant</string>
+    <string name="kazaz_restaurant_addr">38 Sabry Abou Alam St</string>
+    <string name="el_fishawi_restaurant">El Fishawi</string>
+    <string name="el_fishawi__restaurant_addr">Midan Hussein</string>
+    <string name="harrys_pub_restaurant">Harrys Pub</string>
+    <string name="harrys_pub_restaurant_addr">16 Saray El Gezira Street</string>
+    <string name="lePacha_1901_restaurant">LePacha 1901</string>
+    <string name="lePacha_1901_restaurant_addr">El Saraya Al Kobra</string>
+    <string name="the_tap_maadi_restaurant">The Tap Maadi</string>
+    <string name="the_tap_maadi_restaurant_addr">257 Road, Building 17</string>
+    <!-- The names and the addresses of the hotels -->
+    <string name="ramses_hotel">Ramses Hilton</string>
+    <string name="ramses_hotel_addr">1115 Cornish El Nile, Cairo 12344, Egypt</string>
+    <string name="the_nile_ritz_hotel">The Nile Ritz-Carlton, Egypt</string>
+    <string name="the_nile_ritz_hotel_addr">1113 Corniche El Nil Street, Cairo 12344, Egypt</string>
+    <string name="sofitel_hotel">Sofitel Cairo El Gezirah</string>
+    <string name="sofitel_hotel_addr">il St Zamalek, Cairo 11511, Egypt</string>
+    <string name="interContinental_hotel">InterContinental Cairo Semiramis</string>
+    <string name="interContinental_hotel_addr">Corniche El Nil, Cairo 11511, Egypt</string>
+    <string name="novotel_hotel">Novotel Cairo El Borg</string>
+    <string name="novotel_hotel_addr">3 Saraya El Gezira, Cairo 11511, Egypt</string>
+    <string name="four_seasons_hotel">Four Seasons Hotel Cairo at Nile Plaza</string>
+    <string name="four_seasons_hotel_addr">1089 Corniche, Cairo 11511, Egypt</string>
+    <string name="grand_royal_hotel">Hotel Grand Royal</string>
+    <string name="grand_royal_hotel_addr">1 Talaat Harb Square, Cairo 11511, Egypt</string>
+    <!-- The names and the addresses of the Cinemas -->
+    <string name="golden_stars_cinema">Golden Stars</string>
+    <string name="golden_stars_cinema_addr">City Stars next to Holiday Inn, Heliopolis</string>
+    <string name="stars_cinema">Stars Cinema</string>
+    <string name="stars_cinema_addr">Omar Ibn El Khattab St, Heliopolis</string>
+    <string name="ramses_hilton_cinema">Ramses Hilton</string>
+    <string name="ramses_hilton_cinema_addr">Ramses Hilton Hotel Annex, Corniche El Nil, Downtown</string>
+    <string name="city_center_cinema">City Center</string>
+    <string name="city_center_cinema_addr">3 Makram Ebied St, Nasr City</string>
+    <string name="renaissance_nile_city_cinema">Renaissance Nile City Cinema</string>
+    <string name="renaissance_nile_city_cinema_addr">Nile City Building, Corniche El Nil</string>
+    <string name="genena_cinema">Genena Cinema</string>
+    <string name="genena_cinema_addr">Genena Mall, Batrawi St., off Abbas El Akad St, Nasr City</string>
+    <string name="golf_city_cinema">Golf City Cinema</string>
+    <string name="golf_city_cinema_addr">Inside Carrefour, Golf City Mall, Cairo</string>
+</resources>

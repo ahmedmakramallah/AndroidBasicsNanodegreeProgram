@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29B6F6</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Background color for app -->
+    <color name="list_item_background">#B2EBF2</color>
+    <!-- Background color for the clubs category -->
+    <color name="category_club">#B2DFDB</color>
+    <!-- Background color for the Restaurant category -->
+    <color name="category_restaurant">#F8BBD0</color>
+    <!-- Background color for the Hotel category -->
+    <color name="category_hotel">#F5F5F5</color>
+    <!-- Background color for the Cinema category -->
+    <color name="category_cinema">#E1BEE7</color>
+</resources>
